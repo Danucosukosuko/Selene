@@ -65,7 +65,7 @@
 ```bash
 # clonar repo
 git clone https://github.com/selene-cli/selene.git
-cd selene-cli
+cd selene
 
 python selene.py
 
