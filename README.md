@@ -1,4 +1,4 @@
-# Selene
+# Selene 🌙
 
 <img width="1536" height="1024" alt="Selene-CLI_logo_2026_2_1" src="https://github.com/user-attachments/assets/9322847f-5950-45d7-bfa1-a2b3c6f393d7" />
 
@@ -98,7 +98,6 @@ Synapse es responsable de:
 ## Privacidad y uso de g4f 🛡️
 
 * **Lo que envías a Selene puede salir de tu control** según el proveedor; no enviar contraseñas, claves privadas ni datos sensibles en bruto.
-```
 
 ---
 
